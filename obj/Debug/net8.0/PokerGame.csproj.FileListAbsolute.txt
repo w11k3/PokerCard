@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\bin\Debug\net8.0\PokerGame.exe
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\bin\Debug\net8.0\PokerGame.deps.json
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\bin\Debug\net8.0\PokerGame.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\bin\Debug\net8.0\PokerGame.dll
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\bin\Debug\net8.0\PokerGame.pdb
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.dll
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\refint\PokerGame.dll
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.pdb
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\PokerGame.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\PokerGame\PokerGame\obj\Debug\net8.0\ref\PokerGame.dll
